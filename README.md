@@ -22,20 +22,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Core Expertise
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MohamedAI-Reedy&show_icons=true&theme=tokyonight"/>
-</p>
-
----
-
-### 📈 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAI-Reedy&layout=compact&theme=tokyonight"/>
-</p>
-
+- Financial Reporting
+- Budgeting & Forecasting
+- Cash Flow Analysis
+- Financial Modeling
+- Data Cleaning & Analysis
+- Business Intelligence Dashboards
 ---
 
 ### 🤝 Connect With Me
